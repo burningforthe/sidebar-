@@ -1,0 +1,533 @@
+{
+    "local_item": {
+        "id": "237ce4e9-bc96-4a15-90a9-cf5d8580a453",
+        "username": "Anubhi Khandelwal!",
+        "email": "anubhi@terafac.com",
+        "avatar": "https://...",
+        "topic_list": [
+            {
+                "topic": "PLC",
+                "topic_summary": "A PLC is a Programmable Logic Controller used to control and...",
+                "progress": 50,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab08",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab09",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "djkdfas-9f85-4455-928c-f71bbceaab09",
+                        "task_content": [
+                            {
+                                "content": "PLC 8 input 8 output"
+                            },
+                            {
+                                "content": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKr9hCWMfPuTkayHSKemUS3s5CfwFqn7_XrA&usqp=CAU"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab10",
+                        "back": "d43e8fc4-9f85-4455-928c-f71bbceaab08",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "djkdfas-9f85-4455-928c-f71bbceaab10",
+                        "task_content": [
+                            {
+                                "content": "PLC migration and updating"
+                            },
+                            {
+                                "content": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpOED-U4ey5xLfJJhE9s8qNWQwmnTVXi4LQ&usqp=CAU"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "",
+                        "back": "djkdfas-9f85-4455-928c-f71bbceaab09",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a453"
+            },
+            {
+                "topic": "HMI",
+                "progress": 30,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab11",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab12",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab12",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab13",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab13",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab11",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a454"
+            },
+            {
+                "topic": "Networking",
+                "progress": 15,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab14",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab15",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab15",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab16",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab16",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab14",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a455"
+            },
+            {
+                "topic": "IOT",
+                "progress": 10,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab17",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab18",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab18",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab19",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab19",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab17",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a456"
+            },
+            {
+                "topic": "AR",
+                "progress": 0,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab20",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab21",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab21",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab22",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab22",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab20",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a457"
+            },
+            {
+                "topic": "Digital Twin",
+                "progress": 0,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab23",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab24",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab24",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab25",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab25",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab23",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a458"
+            },
+            {
+                "topic": "Motor and Drives",
+                "progress": 0,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab26",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab27",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab27",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab28",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab28",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab26",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a459"
+            },
+            {
+                "topic": "Wiring",
+                "progress": 0,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab29",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab30",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab30",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab31",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab31",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab29",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a460"
+            },
+            {
+                "topic": "3D Printing",
+                "progress": 0,
+                "task_list": [
+                    {
+                        "task": "task 1",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab32",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab33",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar1.png",
+                        "status": "Done"
+                    },
+                    {
+                        "task": "task 2",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab33",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab34",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar2.png",
+                        "status": "In Progress"
+                    },
+                    {
+                        "task": "task 3",
+                        "id": "d43e8fc4-9f85-4455-928c-f71bbceaab34",
+                        "task_content": [
+                            {
+                                "content": "A PLC is a Programmable Logic Controller used to control and monitor electro-mechanical processes."
+                            },
+                            {
+                                "content": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/PLCMachine.png"
+                            }
+                        ],
+                        "info": "Did you know that the first PLC was invented in 1968 by Allen Bradley?",
+                        "next": "djkdfas-9f85-4455-928c-f71bbceaab32",
+                        "back": "",
+                        "horizontal_progress_bar": "https://the-coder.s3.ap-south-1.amazonaws.com/terafac-images/HorizontalProgressBar3.png",
+                        "status": "Not Done"
+                    }
+                ],
+                "id": "qrqwerqe-bc96-4a15-90a9-cf5d8580a4"
+            }
+        ]
+    }
+}
